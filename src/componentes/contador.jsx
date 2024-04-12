@@ -17,7 +17,7 @@ export default function Contador() {
         setResultado(n1 + n2)
     }
     const resta = () =>{
-        setResultado(n1 - 2)
+        setResultado(n1 - n2)
     }
     const reiniciar = () =>{
         setn1(0);

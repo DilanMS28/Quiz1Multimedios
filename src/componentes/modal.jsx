@@ -14,8 +14,8 @@ export default function Modal() {
       {mostrar && (
         <div className="modal">
           <div className="modal-content">
-            <h2>Título del Modal</h2>
-            <p>Contenido del modal...</p>
+            <h2>Bienvenidos al curso de multimedios</h2>
+            {/* <p>Contenido del modal...</p> */}
             {/* <button onClick={toggleModal}>Cerrar</button> */}
           </div>
         </div>

@@ -18,7 +18,7 @@ function App() {
       <Contador/>
       <br/>
       <br/>
-      {/* <Modal/> */}
+      <Modal/>
     </div>
   );
 }

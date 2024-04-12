@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 export default function Entrada() {
-    const [mensaje, setMensaje] = useState("")
+    const [mensaje, setMensaje] = useState("No definido")
 
     const cambio = (e) =>{
         setMensaje(e.target.value)
